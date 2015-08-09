@@ -2,7 +2,7 @@
 Contributors:
 Donate link: https://appful.net/
 Tags: iPhone App,mobile,App,native,Apps,beautiful Apps, iOS, iPad, Apple Watch, Maker,native App,wordpress App
-Requires at least: 3.0.1
+Requires at least: 2.8
 Tested up to: 4.2.4
 Stable tag: 4.3
 License: GPLv2 or later
@@ -14,7 +14,7 @@ Create Top-Notch native mobile Apps in 5 minutes
 
 **[appful](https://appful.net/ "Create mobile iPhone & iPad Apps") is the world's most remarkable & beautiful app service for Blogger and Online magazines. It is designed to create outstanding real native iOS Apps based on the content of your Wordpress site or YouTube channel. appful is surprisingly simple to use and not a single line of code is required.**
 
-=Why is appful different?=
+= Why is appful different? =
 
 Forget monotonous App Builder with one or two cheap-looking templates and a range of unnecessary functions, because they will never have a chance against apps from professional app agencies. However, agencies are slow, offer a weak background system in most cases, and are extremely expensive.
 
@@ -22,7 +22,7 @@ Forget monotonous App Builder with one or two cheap-looking templates and a rang
 
 For any questions, don’t hesitate to **[get in touch](https://appful.net/contact/ "Get in touch!").** We would love to help make your dreams a reality!
 
-=Features=
+= Features =
 
 *   Read Later
 *   Comments
